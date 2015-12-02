@@ -12,4 +12,4 @@ Da bisher noch einige Türchenbilder fehlen, sind kreative Paintart-Bilder gerne
 
 &copy; 2015 Leonard Rapp, Raphael Lehmann
 
-See the [LICENSE](LICENSE.txt) file for license rights and limitations (GPL v3).
+See the [LICENSE](LICENSE) file for license rights and limitations (GPL v3).
