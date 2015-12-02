@@ -1,0 +1,22 @@
+{
+    "package": {
+        "name": "adventskalender-paintart", // Bintray package name
+        "repo": "adventskalender-paintart", // Bintray repository name
+        "subject": "rleh", // Bintray subject (user or organization)
+        "desc": "Adventskalender Paintart App latest automated build",
+        "website_url": "https://www.rleh.de/",
+        "issue_tracker_url": "https://github.com/rleh/adventskalender-paintart/issues",
+        "vcs_url": "https://github.com/rleh/adventskalender-paintart",
+        "licenses": ["GPL-3.0"]
+    },
+    "version": {
+        "name": "1.0",
+        "desc": "release candidate",
+        "gpgSign": false
+    },
+    "files":
+        [
+        {"includePattern": "app\/build\/outputs\/apk\/(adventskalender-app-.+\.apk)", "uploadPattern": "$1"}
+        ],
+    "publish": true
+}

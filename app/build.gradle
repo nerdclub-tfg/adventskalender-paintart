@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.1"
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
         applicationId "de.harry_r.adventskalender"
@@ -14,9 +14,9 @@ android {
     signingConfigs {
         if (System.getenv("TRAVIS")) {
             releaseSigning {
-                storeFile rootProject.file('ibis.keystore')
+                storeFile rootProject.file('adventskalender.keystore')
                 storePassword System.getenv("KEYSTORE_PASS")
-                keyAlias System.getenv("ALIAS_NAME")
+                keyAlias "adventskalender"
                 keyPassword System.getenv("ALIAS_PASS")
             }
         }
