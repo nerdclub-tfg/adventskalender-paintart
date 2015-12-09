@@ -8,11 +8,21 @@
         <item>Nur der frühe Vogel fängt den Wurm</item>
         <item>Guck lieber noch mal auf das Datum</item>
         <item>Wohl verschlafen gestern</item>
+        <item>So wird das aber nichts, bist du etwa immer so nachlässig?</item>
+        <item>Ist da etwa jemand zu spät dran?</item>
+        <item>Bla Bla Bla, mir fällt kein Kommentar mehr ein! Also sei in Zukunft einfach pünktlich.</item>
+        <item>Bist du immer zu spät dran?</item>
     </string-array>
     <string-array name="comments_too_early">
         <item>Nicht so übermotiviert</item>
         <item>Schummeln zählt nicht</item>
         <item>Guck lieber noch mal auf das Datum</item>
         <item>Hättest du wohl gerne, erlaube ich dir aber nicht</item>
+        <item>Hehehe, nicht so hastig</item>
+        <item>Finger weg, sonst kommt Knecht Ruprecht</item>
+        <item>So schnell kommt der Weihnachtsmann gar nicht hinterher mit seinen Vorbereitungen…</item>
+        <item>Na Na Na, nicht spicken</item>
+        <item>Heeey, ich bin noch nicht angezogen!</item>
+        <item>Heeey, ich bin noch Rentiere füttern.</item>
     </string-array>
 </resources>
