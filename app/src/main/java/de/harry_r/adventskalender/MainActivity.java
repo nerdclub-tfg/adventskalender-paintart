@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.schneekugelvorne,
             R.drawable.sternschnuppe,
             R.drawable.schneeflocke,
+            R.drawable.gluehwein,
     };
 
     private Boolean[] opened_doors = new Boolean[24];
