@@ -24,7 +24,12 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.stern_blau,
             R.drawable.unicorn,
             R.drawable.schlitten,
-            R.drawable.weihnachtsmann
+            R.drawable.weihnachtsmann,
+            R.drawable.schneekugelvorne,
+            R.drawable.geschenk,
+            R.drawable.schneekugelvorne,
+            R.drawable.sternschnuppe,
+            R.drawable.schneeflocke,
     };
 
     private Boolean[] opened_doors = new Boolean[24];
